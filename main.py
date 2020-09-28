@@ -68,6 +68,7 @@ if __name__ == "__main__":
     teste.addRandom()
     count += 1
   teste.addRandom()
+  teste.addRandom()
   teste.printBoard()
 
   teste.stack()
